@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://voyacks.github.io/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/app/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/assets/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/css/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/data/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/includes/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/item/sitemap.voyacks.gz
+Sitemap: https://voyacks.github.io/src/sitemap.voyacks.gz
